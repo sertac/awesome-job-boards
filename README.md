@@ -90,7 +90,7 @@ A curated list of awesome niche job boards.
 
 ## Scala
 
-* [Scalajobs.org](https://www.scalajobs.org) - Scala Jobs
+* [Scalajobs.org](http://www.scalajobs.org) - Scala Jobs
 
 ### Aggregator
 
