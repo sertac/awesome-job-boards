@@ -88,6 +88,10 @@ A curated list of awesome niche job boards.
 
 * [WFH.io](https://www.wfh.io) - Digital and tech remote jobs
 
+## Scala
+
+* [Scalajobs.org](https://www.scalajobs.org) - Scala Jobs
+
 ### Aggregator
 
 * [GoRemote](https://remoteok.io/)
